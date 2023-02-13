@@ -27,4 +27,4 @@ Then, we execute the file "mainmodel.txt".
 ###### Comparison with SVM and MLR
 The file called "SVM&MLR" contains the competing models. We execute this file and compare the obtained results with our model.
 ## Testing the proposed model
-To test the final model an example is given in the folder called test.
+To test the final model an example is given in the folder called test, which was tested using Google Colab.
